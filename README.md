@@ -1,1 +1,1 @@
-# Miaomoe-CSGO-Setup
+# Miaomoe-Server-Resources !!Public
